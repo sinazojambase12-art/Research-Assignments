@@ -1,2 +1,2 @@
-# Research-Assignments
+# Research Assignments
 Data Science fundamentals
